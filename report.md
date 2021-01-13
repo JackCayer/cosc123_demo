@@ -4,6 +4,9 @@ This is just random text
 ### lvl 3 heading
 #### lvl 4 heading
 If you want to **bold** text, use "**____**"
+
+If you want to *italicize* text, use "*____*"
+
 If you want to make a list:
 - item 1
 - item 2
